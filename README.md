@@ -1,2 +1,2 @@
 # TicTacToe
-https://cyan-emelina-69.tiiny.site/
+https://pragnaghosh.github.io/TicTacToe/
